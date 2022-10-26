@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qlydeh Brian a computer science graduate
+- 👋 Hi, I’m @Seasoned Brian a computer science graduate
 - 👀 I’m interested in Android development and machine learning
 - 🌱 I’m currently developing social apps
 - 💞️ I’m looking to collaborate on Github, Kaggle and StackOverflow
